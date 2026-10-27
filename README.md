@@ -9,6 +9,9 @@
 - [ ] Router & Switching
 - [ ] IP Address & MAC Address
 - [ ] Security Fundamentals
+- [ ] CIA Triad
+- [ ] Threat and Vulnerabilities
+- [ ] AAA Framework
 
 ## 🎯 Goal
 SOC Analyst role by late 2026
